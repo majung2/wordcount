@@ -1,0 +1,18 @@
+*{
+    box-sizing:border-box;
+}
+
+
+header{
+    background-color: yellowgreen;
+     text-align: center; 
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+}
+
+textbox{
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+}
